@@ -1,0 +1,1 @@
+zigbee.set("Плафон","state","OFF")
