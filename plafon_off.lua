@@ -1,1 +1,1 @@
-zigbee.set("Плафон","state","OFF")
+zigbee.set("ws_lamp","state","OFF")
